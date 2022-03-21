@@ -23,3 +23,5 @@ This project was adapted from the Week 6 exercise.
 - New Button component:
     
     Includes a button to add the manga to a Read List
+
+<img src='https://i.imgur.com/NfgOZ0P' title='MangaList Screenshot' width='' alt='Screenshot of MangaList site' />
