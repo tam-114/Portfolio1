@@ -24,4 +24,4 @@ This project was adapted from the Week 6 exercise.
     
     Includes a button to add the manga to a Read List
 
-<img src='https://i.imgur.com/NfgOZ0P' title='MangaList Screenshot' width='' alt='Screenshot of MangaList site' />
+<img src='https://i.imgur.com/NfgOZ0P.png' title='MangaList Screenshot' width='' alt='Screenshot of MangaList site' />
